@@ -1,7 +1,8 @@
 .DS_Store
 debug*
-datasets/
 checkpoints/
+datasets/bibtex
+datasets/facades
 results/
 build/
 dist/
